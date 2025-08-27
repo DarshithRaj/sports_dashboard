@@ -1,6 +1,0 @@
-date,season,home_team,away_team,home_goals,away_goals,home_shots,away_shots,home_possession,away_possession,home_corners,away_corners,home_win,draw
-2024-01-01,2024,Team A,Team B,2,1,15,10,55,45,7,4,1,0
-2024-01-08,2024,Team C,Team A,0,3,8,14,40,60,3,6,0,0
-2024-01-15,2024,Team B,Team C,1,1,12,12,50,50,5,5,0,1
-2024-01-22,2024,Team A,Team C,4,2,18,11,62,38,9,3,1,0
-2024-01-29,2024,Team B,Team A,2,2,11,13,47,53,4,7,0,1
